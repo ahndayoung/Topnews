@@ -6,4 +6,4 @@
 
 API key 값은 Json을 통해 받아오는 방식으로 함.
 
-# 어플 이미지 : TopNews.pdf
+# 구현 이미지 : TopNews.pdf
